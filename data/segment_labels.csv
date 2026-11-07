@@ -1,0 +1,4 @@
+cluster,name,households,action,target,reduction_pct,target_kwh_per_household
+0,Evening peak,1761,Time-of-use tariff and load-shifting advice for 17:00-21:00,evening_peak,15,900.3174270054751
+1,Low and steady,1751,Low-touch information only; already efficient,total,2,0
+2,High baseload,1367,Standby-power audit and smart plugs to cut always-on load,baseload,25,3275.3832202103295

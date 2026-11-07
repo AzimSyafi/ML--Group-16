@@ -1,0 +1,28 @@
+{
+  "source": "kaggle",
+  "year": 2013,
+  "n_readings": 166523410,
+  "n_households_raw": 5528,
+  "n_after_coverage": 5087,
+  "n_outliers": 208,
+  "n_clustered": 4879,
+  "coverage_min": 0.9,
+  "pca_components": 7,
+  "selected_model": "K-Means",
+  "selected_k": 3,
+  "auto_model": "K-Means",
+  "auto_k": 3,
+  "stability_reps": 10,
+  "features": [
+    "mean_daily_kwh",
+    "share_night",
+    "share_morning",
+    "share_daytime",
+    "share_evening_peak",
+    "share_late_evening",
+    "baseload_kwh",
+    "peak_to_avg",
+    "weekend_ratio",
+    "seasonal_ratio"
+  ]
+}
