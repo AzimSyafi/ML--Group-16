@@ -30,7 +30,7 @@ Useful options: `--year 2013`, `--coverage 0.9`, `--reps 10` (subsample repeats 
 
 The full run on about 5,500 households takes a while because each of the 27 model/k combinations is refitted 10 times for stability. Use `--reps 3` for a quick first pass.
 
-## What the pipeline does (matches the proposal)
+## What the pipeline does
 
 | Step | Implementation |
 |---|---|
